@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Soundtrack for the solo"
+title:  "Soundtrack for the solo."
 date:   2020-01-09 23:00:00
 categories: music
 ---
 
 > Depression is for rich people, you better get your shit together and go back to work.
-A random guy says to a girl on the back table while I was eating Chilaquiles Verdes in [Fonda Dona Blanca](https://goo.gl/maps/weosQEPuDM6EKcG48) in Mexico City.
+
+A random guy says to a girl on the back table while I struggle to cut my wet Chilaquiles Verdes mollete in [Fonda Dona Blanca](https://goo.gl/maps/weosQEPuDM6EKcG48) in Mexico City.
 
 Selecting, renaming, sorting, playing, testing, uploading.
 
